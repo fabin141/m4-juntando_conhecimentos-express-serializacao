@@ -1,0 +1,1 @@
+// suas tipagens vai aqui
